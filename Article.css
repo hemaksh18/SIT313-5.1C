@@ -1,0 +1,84 @@
+.section1 {
+  width: 1050px;
+    margin-top: 20px;
+    padding: 9px;
+    text-align: left;
+  }
+  
+
+ .section1 p{
+  text-align: left;
+  font-size: 14px;
+  margin-bottom: 10px;
+  width: 80%;
+  padding-left: 20px;
+  display: relative;
+  }
+  
+  .section1 h1 {
+      background-color: rgb(205, 197, 197);
+      margin-top: 6px;
+      width: 97%;
+      height: 40%;
+      text-align: left;
+      display: flex;
+      font-size: 24px;
+  }
+  
+
+ .A1 {
+  font-weight: bolder;
+  display: inline-block;
+  margin-top: 12px;
+  }
+  
+  
+  .Sub1{
+    display: inline-block;
+      margin-top: 15px;
+      padding: 13px;
+      width: 89%;
+      margin-left: 20px;
+      margin-right: 10px;
+  }
+
+  .Sub2{
+    display: inline-block;
+      margin-top: 15px;
+      padding: 10px;
+      width: 91%;
+      margin-left: 15px;
+      margin-right: 10px;
+  }
+
+  .info{
+    color: rgb(186, 34, 59);
+  }
+
+  textarea {
+    display: inline-block;
+      width: 96%;
+      height: 250px;
+      margin-right: 50px;
+  }
+  
+  .section1 label{
+      font-weight: bolder;
+      display: inline-block;
+      margin-top: 12px;
+
+  }
+
+  .post-button {
+    margin-top: 18px;
+    padding: 15px;
+    text-align: center; 
+    display: relative;
+    width: 15%;
+    height: 50px;
+    background-color: gray;
+    color: black;
+    font-size: 20px;
+    margin-left: 870px;
+  }
+  

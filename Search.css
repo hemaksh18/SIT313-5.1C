@@ -1,0 +1,15 @@
+.search{
+    display: block;
+    width: 84%;  
+    background-color: rgb(205, 197, 197);
+  }
+  
+  .search {
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px;
+    text-align: left;
+    display: flex;
+  }
+  
+  
